@@ -1,6 +1,28 @@
-# Nuxt Minimal Starter
+# Stock Items Apps
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+tech stack: Nuxt 3, Vue 3, Pinia, Tailwind CSS, TypeScript
+
+## Description
+
+This is a simple stock items application built with Nuxt 3, Vue 3, Pinia, Tailwind CSS, and TypeScript. It allows users to view and manage stock items in a user-friendly interface.
+
+## Features
+
+- View stock items
+
+## Screenshot
+
+### First Landing
+
+![First Landing](./public/images/markdown/first-landing.png)
+
+### Out Of Stock
+
+![First Landing](./public/images/markdown/out-of-stock.png)
+
+### Ready Stock
+
+![First Landing](./public/images/markdown/ready-stock.png)
 
 ## Setup
 
